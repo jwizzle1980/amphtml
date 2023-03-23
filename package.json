@@ -157,7 +157,7 @@
     "node-fetch": "2.6.1",
     "open": "8.0.2",
     "plugin-error": "1.0.1",
-    "postcss": "8.2.7",
+    "postcss": "8.2.10",
     "postcss-import": "14.0.0",
     "posthtml": "0.15.1",
     "prettier": "2.2.1",
